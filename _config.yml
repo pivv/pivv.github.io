@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "South Korea"
-title                    : "Hyeonuk's labaratory."
+title                    : "Hyeonuk's labaratory"
 title_separator          : "-"
 name                     : "Kim, Hyeonuk"
 description              : "Github blog for posting some deep learning codes."
